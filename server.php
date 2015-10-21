@@ -1,6 +1,6 @@
 <?php
 $host = 'php-phuct9.rhcloud.com'; //host
-$port = '8080'; //port
+$port = '8000'; //port
 $null = NULL; //null var
 
 //Create TCP/IP sream socket
