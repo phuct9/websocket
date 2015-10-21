@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost'; //host
+$host = 'php-phuct9.rhcloud.com'; //host
 $port = '9000'; //port
 $null = NULL; //null var
 
